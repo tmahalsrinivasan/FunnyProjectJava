@@ -1,2 +1,3 @@
-#FunnyProjectJava
-###HUMAN ANIMATED!
+# FunnyProjectJava
+
+### HUMAN ANIMATED!
